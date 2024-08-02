@@ -75,6 +75,10 @@ The environment can be rendered to visualize the agent's movements and the posit
 - Beds: 🛏
 
 # Example Output
+Training the model before play.py
+
+![Training_model](https://github.com/user-attachments/assets/4d80596b-6983-465b-be2d-7dc74370da8b)
+
 After running play.py, you should see an output similar to:
 
 ![Agent1](https://github.com/user-attachments/assets/3d5b5529-3f94-4680-8d74-13f462f7a9cb)
