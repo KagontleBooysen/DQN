@@ -77,6 +77,13 @@ The environment can be rendered to visualize the agent's movements and the posit
 # Example Output
 After running play.py, you should see an output similar to:
 
+![Agent1](https://github.com/user-attachments/assets/3d5b5529-3f94-4680-8d74-13f462f7a9cb)
+
+![Agent2](https://github.com/user-attachments/assets/64de0596-c634-4b15-ad16-03fd29ed6193)
+
+![Agent 3png](https://github.com/user-attachments/assets/263123a8-413d-48e7-8ada-4a4d4c8c5df4)
+
+
 
 
 
