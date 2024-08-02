@@ -2,6 +2,8 @@
 
 This project involves training a Deep Q-Network (DQN) agent to navigate a complex hospital environment. The environment is represented as a grid with various elements, including an agent (doctor), medicine cabinet, doctors, nurses, and beds. The agent's goal is to reach the medicine cabinet while avoiding collisions with doctors and nurses.
 
+Access the simulation presentation here : https://drive.google.com/file/d/1Xa8vQw-WAoknjxrGBK9DklBuRUGCQet9/view?usp=sharing 
+
 ## Prerequisites
 
 - Python 3.7+
