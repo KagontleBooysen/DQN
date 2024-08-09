@@ -70,11 +70,11 @@ The hospital environment (HospitalEnv) is a grid where the agent can move in fou
 # Rendering
 The environment can be rendered to visualize the agent's movements and the positions of other elements. The following emojis represent the elements:
 
-- Agent: 🙂 (doctor)
-- Medicine Cabinet: 💊
+- Agent: 🙂 
+- Chemotherapy Ward: 💊
 - Doctors: 👨‍⚕️
 - Nurses: 👩‍⚕️
-- Beds: 🛏
+- Radiologist: 🛏
 
 # Example Output
 Training the model before play.py
