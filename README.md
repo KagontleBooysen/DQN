@@ -1,6 +1,6 @@
 # Hospital Environment DQN Agent
 
-This project involves training a Deep Q-Network (DQN) agent to navigate a complex hospital environment. The environment is represented as a grid with various elements, including an agent (doctor), medicine cabinet, doctors, nurses, and beds. The agent's goal is to reach the medicine cabinet while avoiding collisions with doctors and nurses.
+This project involves training a Deep Q-Network (DQN) agent to navigate a complex hospital environment. The environment is represented as a grid with various elements, including an agent (doctor), chemotherapy ward, doctors, nurses, and beds. The agent's goal is to reach the medicine cabinet while avoiding collisions with doctors and nurses.
 
 Access the simulation presentation here : https://drive.google.com/file/d/1rCTOGvLQpE2WNc-kqkAdI5PmU_Ugb4FY/view?usp=sharing
 
@@ -83,11 +83,9 @@ Training the model before play.py
 
 After running play.py, you should see an output similar to:
 
-![Agent1](https://github.com/user-attachments/assets/3d5b5529-3f94-4680-8d74-13f462f7a9cb)
 
-![Agent2](https://github.com/user-attachments/assets/64de0596-c634-4b15-ad16-03fd29ed6193)
+![Chemo 1](https://github.com/user-attachments/assets/de5ad22e-d16a-4958-b30e-165e0782c77c)
 
-![Agent 3png](https://github.com/user-attachments/assets/263123a8-413d-48e7-8ada-4a4d4c8c5df4)
 
 
 
