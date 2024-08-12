@@ -37,7 +37,7 @@ The agent can perform the following actions:
 
 - The agent may prescribe medication or refer the patient to a doctor based on the diagnosis.
 - If medication is prescribed, the agent may fetch it from the medical cabinet and administer it to the patient.
-- 
+  
 3. **Transport to Chemotherapy Ward**:
 
 - If the diagnosis reveals a serious condition (e.g., cancer), the agent transports the patient to the chemotherapy ward for specialized treatment.
