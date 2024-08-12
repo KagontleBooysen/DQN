@@ -9,12 +9,12 @@ The hospital "Lung cancer" ward is represented as a grid environment where each 
 # Key Entities
 
 - **Agent(Green)** : Represents the healthcare provider (Machine Learning) responsible for prescribing, reference to a doctor, and administering medicine. If a client is diagnosed as “unhealthy”, the agent takes the patient to the chemotherapy ward.
-**Patients (Purple/Orange)**: Represent healthy or diseased patients that the agent interacts with.
-**Healthy Patients (Purple)**: Patients without any medical conditions.
-**Diseased Patients (Orange**): Patients diagnosed with a health condition requiring further actions.
-**Chemotherapy Ward (Blue)**: A location the agent needs to reach to fetch medical supplies or drugs and take patients for lung cancer treatment.
-**Obstacles (Red)**: Represent doctors, nurses, and other healthcare staff the agent must avoid (or interact with) depending on the scenario.
-**Dynamic Obstacles (Black)**: Moving obstacles that add complexity to the agent's navigation.
+- **Patients (Purple/Orange)**: Represent healthy or diseased patients that the agent interacts with.
+- **Healthy Patients (Purple)**: Patients without any medical conditions.
+- **Diseased Patients (Orange**): Patients diagnosed with a health condition requiring further actions.
+- **Chemotherapy Ward (Blue)**: A location the agent needs to reach to fetch medical supplies or drugs and take patients for lung cancer treatment.
+- **Obstacles (Red)**: Represent doctors, nurses, and other healthcare staff the agent must avoid (or interact with) depending on the scenario.
+- **Dynamic Obstacles (Black)**: Moving obstacles that add complexity to the agent's navigation.
 
   # Agent Actions
 The agent can perform the following actions:
